@@ -2,10 +2,11 @@
 type: glossary
 title: Глоссарий
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-10-02
 status: draft
 tags: [glossary]
-sources: []
+sources:
+  - "[[2026-vvit-lecture-01-git]]"
 ---
 
 # Глоссарий
@@ -15,3 +16,5 @@ sources: []
 | Термин | Кратко | Полная заметка |
 | --- | --- | --- |
 | _пример_ | _краткое определение_ | [[concept-name]] |
+| Git | система контроля версий | [[git-vs-github]] |
+| GitHub | сервис для хранения Git-репозиториев | [[git-vs-github]] |

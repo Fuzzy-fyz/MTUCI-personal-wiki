@@ -2,7 +2,7 @@
 type: index
 title: Карта знаний Learning OS
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-10-02
 status: draft
 tags: [map-of-content]
 sources: []
@@ -21,6 +21,8 @@ sources: []
 ## Понятия
 
 _Добавляйте атомарные заметки из `wiki/concepts/`._
+
+- [[git-vs-github]] — чем система контроля версий Git отличается от сервиса GitHub (`needs-review`)
 
 ## Методы и инструменты
 
@@ -41,3 +43,5 @@ _Создавайте карты темы в `wiki/synthesis/`, когда за�
 ## Источники
 
 Все доказательства описываются карточками в `wiki/sources/`. В каждой основной заметке есть раздел `## Sources`.
+
+- [[2026-vvit-lecture-01-git]] — ВвИТ, лекция №1: системы контроля версий и Git
