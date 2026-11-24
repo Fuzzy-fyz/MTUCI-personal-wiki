@@ -2,7 +2,7 @@
 type: index
 title: Карта знаний Learning OS
 created: 2026-09-02
-updated: 2026-10-02
+updated: 2026-11-24
 status: draft
 tags: [map-of-content]
 sources: []
@@ -38,10 +38,11 @@ _Добавляйте проверяемые примеры из `wiki/examples/
 
 ## Синтез по темам
 
-_Создавайте карты темы в `wiki/synthesis/`, когда заметок становится больше пяти._
+- [[machine-learning-course-roadmap]] — практический маршрут по курсу Python и классического машинного обучения (`needs-review`)
 
 ## Источники
 
 Все доказательства описываются карточками в `wiki/sources/`. В каждой основной заметке есть раздел `## Sources`.
 
 - [[2026-vvit-lecture-01-git]] — ВвИТ, лекция №1: системы контроля версий и Git
+- [[2026-ml-notebooks-rus-v18]] — локальный курс Python и машинного обучения в Jupyter Notebook (`needs-review`)

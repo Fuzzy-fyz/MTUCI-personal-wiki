@@ -5,3 +5,4 @@
 ## Карточки
 
 - [[2026-vvit-lecture-01-git]] — ВвИТ, лекция №1: системы контроля версий и Git
+- [[2026-ml-notebooks-rus-v18]] — русскоязычный курс Python и машинного обучения в Jupyter Notebook (`needs-review`)

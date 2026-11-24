@@ -14,6 +14,7 @@ secrets/
 # Temporary LLM outputs and local exports
 llm/outputs/*
 !llm/outputs/README.md
+study/
 *.tmp
 *.log
 
