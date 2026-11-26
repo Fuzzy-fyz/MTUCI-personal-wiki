@@ -8,3 +8,5 @@
 | 2026-11-24 | `.github/agents/uchitel.agent.md` | создание кастомного агента-преподавателя по спецификации пользователя | Codex / GPT-6 | пользователь предоставил требования; адаптированы правила постоянной памяти с учётом append-only журналов и границ папок репозитория; профиль ученика оставлен предварительным | course policy |
 | 2026-11-24 | `study/` | сохранение результатов вводного занятия по SQL и следующего шага по просьбе пользователя | Codex / GPT-6 | запись отражает ответы в диалоге; освоение SQL помечено предварительным, выполнение запросов в БД не проверялось | no |
 | 2026-11-24 | `.github/agents/uchitel.agent.md` | улучшение преподавателя: иерархия источников, проверка фактов, provenance, ограничения веб-доступа и учёт ссылок в `study/SOURCES.md` | Copilot SDK / GPT-6 Luna | правила адаптированы к `AGENTS.md`: материалы курса и первоисточники в приоритете, неподтверждённое маркируется, `raw/` защищён, журналы append-only | course policy |
+
+- 2026-11-26 — Vacancy Coach / ChatGPT: summarized learning dialogue, checked answers and prepared a progress note at `learning/reflections/ml-engineer-progress.md`; user reviewed before publishing.
