@@ -10,3 +10,5 @@
 | 2026-11-24 | `.github/agents/uchitel.agent.md` | улучшение преподавателя: иерархия источников, проверка фактов, provenance, ограничения веб-доступа и учёт ссылок в `study/SOURCES.md` | Copilot SDK / GPT-6 Luna | правила адаптированы к `AGENTS.md`: материалы курса и первоисточники в приоритете, неподтверждённое маркируется, `raw/` защищён, журналы append-only | course policy |
 
 - 2026-11-26 — Vacancy Coach / ChatGPT: summarized learning dialogue, checked answers and prepared a progress note at `learning/reflections/ml-engineer-progress.md`; user reviewed before publishing.
+
+| 2026-11-26 | `memory/entries/9a67b5624a9d1cef4fa24aac6076b7cf0c0cdb95b595aab1251197f98cd6c13c.md` | Memory note | ChatGPT | User reviewed before publication | no |
